@@ -15,7 +15,7 @@
 5. Setelah setiap ronde, pemain akan ditanya apakah ingin bermain lagi.
 
 ## 💡 Contoh Tampilan
-
+```bash
 ============
 PyOwl Hunter
 ============
@@ -29,7 +29,7 @@ Selamat kamu menang
 Apakah kamu ingin mengulangi gamenya [y/n] : y
 
 Terimakasih telah menggunakan program kami, progam akan di hentikan
-
+```
 ## 🛠 Teknologi
 - Python
 - Hanya menggunakan modul standar:
