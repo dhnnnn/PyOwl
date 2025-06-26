@@ -7,11 +7,15 @@ print("====================\n")
 nama = input("Hai masukan nama kamu : ")
 
 while True: 
-    goa = ["|_|", "|_|", "|_|", "|_|"]
+    # Membuat array goa
+    goa = ["|_|", "|_|", "|_|", "|_|"] 
 
+    # Membuat variable yang menampung angka random
     posisi = random.randint(1, 4)
 
-    goa[posisi - 1] = "|🦉|"
+
+    # Posisi - 1 dikarenakan random pada posisi 1-4 dan index array dimulai dari 0 
+    goa[posisi - 1] = "|🦉|" 
 
     goa = " ".join(goa)
 
