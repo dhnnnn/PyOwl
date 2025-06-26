@@ -44,8 +44,14 @@ Jika terdapat versi berarti pada komputer anda sudah ter instal, anda bisa mendo
 
 2. Clone atau unduh repositori ini.
 3. Buka terminal/command prompt dan jalankan:
+```bash
+git clone https://github.com/dhnnnn/PyOwl.git
+```
 
 ## 📁 Struktur File
+```
+
+```
 
 ## 📌 Catatan
 - Game ini dirancang untuk dimainkan melalui terminal saja.
