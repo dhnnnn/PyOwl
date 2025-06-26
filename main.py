@@ -11,7 +11,7 @@ while True:
 
     posisi = random.randint(1, 4)
 
-    goa[posisi - 1] = "|ʘ̅͜ʘ̅|"
+    goa[posisi - 1] = "|🦉|"
 
     goa = " ".join(goa)
 
