@@ -50,7 +50,9 @@ git clone https://github.com/dhnnnn/PyOwl.git
 
 ## 📁 Struktur File
 ```
-
+pyowl/
+├── main.py
+└── README.md
 ```
 
 ## 📌 Catatan
