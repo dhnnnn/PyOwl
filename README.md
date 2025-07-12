@@ -2,6 +2,12 @@
 
 **PyOwl** adalah game terminal sederhana berbasis Python di mana pemain diminta untuk menebak posisi burung hantu yang bersembunyi di salah satu dari empat goa. Cocok dimainkan untuk hiburan ringan sambil belajar logika Python dasar.
 
+
+
+
+
+
+
 ## 🎮 Cara Bermain
 
 1. Burung hantu (🦉) akan bersembunyi di salah satu dari 4 goa.
